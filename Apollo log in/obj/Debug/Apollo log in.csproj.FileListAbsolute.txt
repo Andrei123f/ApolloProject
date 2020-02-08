@@ -1,0 +1,17 @@
+C:\Users\Andrei\Desktop\Apollo log in\Apollo log in\obj\Debug\Apollo log in.csprojAssemblyReference.cache
+C:\Users\Andrei\Desktop\Apollo log in\Apollo log in\obj\Debug\Apollo_log_in.Form1.resources
+C:\Users\Andrei\Desktop\Apollo log in\Apollo log in\obj\Debug\Apollo_log_in.Properties.Resources.resources
+C:\Users\Andrei\Desktop\Apollo log in\Apollo log in\obj\Debug\Apollo log in.csproj.GenerateResource.cache
+C:\Users\Andrei\Desktop\Apollo log in\Apollo log in\obj\Debug\Apollo log in.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\Apollo log in\Apollo log in\bin\Debug\Apollo log in.exe.config
+C:\Users\Andrei\Desktop\Apollo log in\Apollo log in\bin\Debug\Apollo log in.exe
+C:\Users\Andrei\Desktop\Apollo log in\Apollo log in\bin\Debug\Apollo log in.pdb
+C:\Users\Andrei\Desktop\Apollo log in\Apollo log in\bin\Debug\MySql.Data.dll
+C:\Users\Andrei\Desktop\Apollo log in\Apollo log in\bin\Debug\Google.Protobuf.dll
+C:\Users\Andrei\Desktop\Apollo log in\Apollo log in\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Andrei\Desktop\Apollo log in\Apollo log in\bin\Debug\MySql.Data.xml
+C:\Users\Andrei\Desktop\Apollo log in\Apollo log in\obj\Debug\Apollo log in.csproj.CopyComplete
+C:\Users\Andrei\Desktop\Apollo log in\Apollo log in\obj\Debug\Apollo log in.exe
+C:\Users\Andrei\Desktop\Apollo log in\Apollo log in\obj\Debug\Apollo log in.pdb
+C:\Users\Andrei\Desktop\Apollo log in\Apollo log in\obj\Debug\Apollo_log_in.Admin.resources
+C:\Users\Andrei\Desktop\Apollo log in\Apollo log in\obj\Debug\Apollo_log_in.User.resources
